@@ -1,0 +1,24 @@
+{
+  "name": "coding-katas-typescript",
+  "version": "1.0.0",
+  "description": "Coding Katas written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliflores/coding-katas-typescript.git"
+  },
+  "keywords": [
+    "katas",
+    "typescript",
+    "hack-evening"
+  ],
+  "author": "Eli Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliflores/coding-katas-typescript/issues"
+  },
+  "homepage": "https://github.com/eliflores/coding-katas-typescript#readme"
+}
