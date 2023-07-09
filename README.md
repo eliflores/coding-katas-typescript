@@ -9,9 +9,7 @@
 
 1. Clone the repository
 2. Install the tools in the [.tool-versions](.tool-versions) file.
-
-- You may use [asdf](https://asdf-vm.com/) for the installation.
-
+   - You may use [asdf](https://asdf-vm.com/) for the installation.
 3. Run: `yarn`
 4. Run the tests: `yarn test`
 5. Run the linting: `yarn lint`
