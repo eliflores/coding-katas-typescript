@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "eslint . --ext .ts",
     "test": "jest --coverage",
-    "prettier:write": "yarn prettier . --write",
-    "prettier:check": "yarn prettier . --check"
+    "format:write": "yarn prettier . --write",
+    "format:check": "yarn prettier . --check"
   },
   "repository": {
     "type": "git",
