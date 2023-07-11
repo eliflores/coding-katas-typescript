@@ -14,5 +14,5 @@
 4. Run the tests: `yarn test`
 5. Run the linting: `yarn lint`
 6. Write the tests, write the code, have fun!
-7. Lint the code (`yarn lint`), run the tests (`yarn test`), format the code (`yarn format:write`)
+7. Lint the code (`yarn lint`), run the tests (`yarn test`), format the code (`yarn format`)
 8. Open a Pull Request, wait for all the checks to pass, and merge! :tada:

@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint . --ext .ts",
     "test": "jest --coverage",
-    "format:write": "yarn prettier . --write",
+    "format": "yarn prettier . --write",
     "format:check": "yarn prettier . --check"
   },
   "repository": {
