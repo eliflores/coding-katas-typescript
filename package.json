@@ -2,7 +2,7 @@
   "name": "coding-katas-typescript",
   "version": "1.0.0",
   "description": "Coding Katas written in TypeScript",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "lint": "eslint . --ext .ts",
     "test": "jest --coverage",
