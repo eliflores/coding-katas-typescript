@@ -131,3 +131,5 @@ dist
 
 # Output of 'tsc`
 build/
+
+.idea/
